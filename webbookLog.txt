@@ -1,0 +1,105 @@
+Iniciada la generación del Webbook
+----------- WebBook  - Publicación mejorada localmente o en Internet -----------
+WebBook  - 12.0.12678
+----------- Inicio de la generación de páginas -----------
+Tue Jul 09 21:08:36 CEST 2024
+ 
+ 
+----------- Parámetros usados durante la generación -----------
+param_title = Genealogía ANDRE x LAPEYRE
+param_author = Frédéric
+param_address = Paris
+param_phone = +33 1 40 50 60 70
+param_email = micorreoeletronico@sitio.com
+param_dispMsg = 1
+param_dispStatAncestor = 1
+param_dispStatLoc = 1
+param_message = Ultima actualización en mi sitio: Cousins Chancel y 
+la rama de Carlos el Grande (también conocido como Carlomagno) 
+param_title_message = 
+param_decujus = Miguel, ? Bezos (° +) (I77)
+param_unknown = ?
+param_dispSpouse = 1
+param_dispKids = 1
+param_dispSiblings = 1
+param_dispRelations = 1
+param_dispNotes = 1
+param_dispId = 1
+param_dispEmailButton = 1
+param_hidePrivateData = 0
+param_media_GeneSources = 1
+param_media_DisplaySources = Sin datos para el individuo asociado
+param_media_CopySources = 1
+param_media_GeneMedia = 1
+param_media_CopyMedia = 1
+param_media_GeneMap = 1
+param_media_DispUnknownLoc = 1
+param_dispAncestors = 1
+param_ancestorMinGen = 0
+param_ancestorMaxGen = 99
+param_ancestorSource = No mencionar las fuentes
+param_localWebDir = C:\Users\XP-VAIO\.ancestris\12\WebBook
+param_logFile = C:\Users\XP-VAIO\.ancestris\12\WebBook\webbookLog.txt
+param_FTP_upload = 0
+param_PHP_Support = 0
+param_Securise = 0
+----------- 
+ 
+----------- Limpiando directorio local -----------
+ 
+----------- Inicializando secciones de WebBook -----------
+Apellidos
+Lista de los individuos
+Detalles de los individuos
+Fuentes
+Fotos y otros multimedia
+Lista de ciudades
+Detalles de ciudades
+Calendario familiar
+Detalles del calendario
+Grado de endogamia
+Estadísticas
+Lista de ancestros
+Búsqueda de individuos
+Mapa geográfico
+
+
+ 
+----------- Creando secciones WebBook -----------
+theme: ok 
+includes: ok 
+names.html: ok 
+persons_1.html: ok 
+persons_2.html: ok 
+personsdetails_1.html: ok 
+personsdetails_2.html: ok 
+personsdetails_3.html: ok 
+personsdetails_4.html: ok 
+popupemail.htm: ok 
+sources_0.html: ok 
+popup.htm: ok 
+media_0.html: ok 
+popup.htm: ok 
+cities.html: ok 
+days.html: ok 
+daysdetails_1.html: ok 
+stats_1.html: ok 
+stats_2.html: ok 
+repsosa_1.html: ok 
+search_0.html: ok 
+search_4.js: ok 
+map.html: ok 
+Number of ascendants: 2
+Number of cousins: 0
+map-markers.js: ok 
+index.html: ok 
+ 
+----------- Transfiriendo archivos a su sitito WEB -----------
+No se requiere subida del archivo
+ 
+----------- Mostrando páginas WEB -----------
+file://C:/Users/XP-VAIO/.ancestris/12/WebBook/index.html
+ 
+Tue Jul 09 21:08:37 CEST 2024
+----------- Fin de la generación de páginas -----------
+Generación del Webbook completada con éxito :))))
