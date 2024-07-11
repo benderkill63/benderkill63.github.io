@@ -2,22 +2,25 @@ Iniciada la generación del Webbook
 ----------- WebBook  - Publicación mejorada localmente o en Internet -----------
 WebBook  - 12.0.12678
 ----------- Inicio de la generación de páginas -----------
-Tue Jul 09 21:08:36 CEST 2024
+Thu Jul 11 15:42:02 CEST 2024
  
  
 ----------- Parámetros usados durante la generación -----------
-param_title = Genealogía ANDRE x LAPEYRE
-param_author = Frédéric
-param_address = Paris
-param_phone = +33 1 40 50 60 70
-param_email = micorreoeletronico@sitio.com
+param_title = Genealogía Bezos Martin
+param_author = Ramon Martin Bezos
+param_address = 
+param_phone = 
+param_email = benderkill63@hmail.com
 param_dispMsg = 1
 param_dispStatAncestor = 1
 param_dispStatLoc = 1
-param_message = Ultima actualización en mi sitio: Cousins Chancel y 
-la rama de Carlos el Grande (también conocido como Carlomagno) 
-param_title_message = 
-param_decujus = Miguel, ? Bezos (° +) (I77)
+param_message = Por favor 
+Informar de las fechas incompletas, nombres, parientes, y errores en la genealogia
+para que entre todos podamos completar esta informacion.
+Muchas gracias a todos.
+
+param_title_message = Pagina para revisar la falta de datos
+param_decujus = Bezos N. Tatarabuelo, Miguel (°1 ENE 1857 +1 ENE 1937) (I127)
 param_unknown = ?
 param_dispSpouse = 1
 param_dispKids = 1
@@ -38,8 +41,8 @@ param_dispAncestors = 1
 param_ancestorMinGen = 0
 param_ancestorMaxGen = 99
 param_ancestorSource = No mencionar las fuentes
-param_localWebDir = C:\Users\XP-VAIO\.ancestris\12\WebBook
-param_logFile = C:\Users\XP-VAIO\.ancestris\12\WebBook\webbookLog.txt
+param_localWebDir = C:\Users\XP-VAIO\Desktop\GENEALOGIA\nueva pagina web
+param_logFile = C:\Users\XP-VAIO\Desktop\GENEALOGIA\nueva pagina web\webbookLog.txt
 param_FTP_upload = 0
 param_PHP_Support = 0
 param_Securise = 0
@@ -70,7 +73,6 @@ theme: ok
 includes: ok 
 names.html: ok 
 persons_1.html: ok 
-persons_2.html: ok 
 personsdetails_1.html: ok 
 personsdetails_2.html: ok 
 personsdetails_3.html: ok 
@@ -89,8 +91,8 @@ repsosa_1.html: ok
 search_0.html: ok 
 search_4.js: ok 
 map.html: ok 
-Number of ascendants: 2
-Number of cousins: 0
+Number of ascendants: 1
+Number of cousins: 88
 map-markers.js: ok 
 index.html: ok 
  
@@ -98,8 +100,8 @@ index.html: ok
 No se requiere subida del archivo
  
 ----------- Mostrando páginas WEB -----------
-file://C:/Users/XP-VAIO/.ancestris/12/WebBook/index.html
+file://C:/Users/XP-VAIO/Desktop/GENEALOGIA/nueva pagina web/index.html
  
-Tue Jul 09 21:08:37 CEST 2024
+Thu Jul 11 15:42:04 CEST 2024
 ----------- Fin de la generación de páginas -----------
 Generación del Webbook completada con éxito :))))
