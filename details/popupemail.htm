@@ -1,0 +1,32 @@
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" >
+<head><title>Formulario de envío de correo electrónico</title>
+<meta charset="utf-8" />
+<link rel="StyleSheet" href="../theme/style.css" type="text/css"/>
+<script>
+var arrTemp=self.location.href.split("?");
+var person = (arrTemp.length>0) ? ": "+arrTemp[1] : "";
+</script>
+</head>
+<body bgcolor="#ffffff" topmargin="10" marginheight="10" leftmargin="10" marginwidth="10">
+<div class="contreport">
+<p class="decal"><br /><span class="gras">Instrucciones</span></p>
+<p class="description">Gracias por enviarme un comentario sobre este individuo. Por favor, use el formulario electr&oacute;nic y presione &quot;Enviar&quot;. Tu aplicaci&oacute;n de correo mostrar&aacute; el correo electr&oacute;nico que me enviar&aacute;s. Es posible que tengas que modificarlo y a continuaci&oacute;n, deber&aacute;s enviarlo como un correo electr&oacute;nico normal</p>
+</div>
+<div class="contreport">
+<p class="decal"><br /><span class="gras">Formulario</span></p>
+<p class="description">
+  <script>
+  document.write( "<form class='description' action='mailto:micorreoeletronico@sitio.com?subject=Mensaje acerca de su genealogía" + person + "' method='post' enctype='text/plain' >" );
+  </script>
+  <form>
+  Su nombre&nbsp;<input type="text" size="60" id="MI_NOMBRE_ES"><br /><br />
+  La raz&oacute;n de su mensaje&nbsp;<input type="text" size="60" id="LA_RAZON_DE_SU_MENSAJE"><br /><br />
+  Su mensaje detallado&nbsp;<br />
+  <textarea id="SU_MENSAJE_DETALLADO" cols=77 rows=8 wrap="soft"></textarea><br /><br />
+  <center><input onclick='self.close();' type="submit" value="Enviar">&nbsp;&nbsp;&nbsp;<input onclick='self.close();' type="reset" value="Cancelado"></center>
+  </form>
+</p>
+<div class="spacer">&nbsp;</div>
+</div>
+</body></html>
